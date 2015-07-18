@@ -14,3 +14,6 @@ Added the icons and styling for the featured sections in the main body.
 Added the form and button panel.
 
 Added Apple and Android icons via IcoMoon.
+
+Laid-out course, teacher content and callout section with nested grids,
+responsive images and responsive utility classes.
