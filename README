@@ -17,3 +17,6 @@ Added Apple and Android icons via IcoMoon.
 
 Laid-out course, teacher content and callout section with nested grids,
 responsive images and responsive utility classes.
+
+Added responsive utility classes and custom rules to style Treehouse 
+content and callout sections. Added the Video Modal and the Footer.
